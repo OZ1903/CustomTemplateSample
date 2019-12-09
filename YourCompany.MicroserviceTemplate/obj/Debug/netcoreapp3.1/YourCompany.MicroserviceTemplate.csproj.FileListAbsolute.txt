@@ -1,0 +1,10 @@
+C:\source\repos\YourCompany.MicroserviceTemplate\YourCompany.MicroserviceTemplate\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\source\repos\YourCompany.MicroserviceTemplate\YourCompany.MicroserviceTemplate\bin\Debug\netcoreapp3.1\appsettings.json
+C:\source\repos\YourCompany.MicroserviceTemplate\YourCompany.MicroserviceTemplate\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\source\repos\YourCompany.MicroserviceTemplate\YourCompany.MicroserviceTemplate\bin\Debug\netcoreapp3.1\YourCompany.MicroserviceTemplate.exe
+C:\source\repos\YourCompany.MicroserviceTemplate\YourCompany.MicroserviceTemplate\obj\Debug\netcoreapp3.1\YourCompany.MicroserviceTemplate.csprojAssemblyReference.cache
+C:\source\repos\YourCompany.MicroserviceTemplate\YourCompany.MicroserviceTemplate\obj\Debug\netcoreapp3.1\staticwebassets\YourCompany.MicroserviceTemplate.StaticWebAssets.Manifest.cache
+C:\source\repos\YourCompany.MicroserviceTemplate\YourCompany.MicroserviceTemplate\obj\Debug\netcoreapp3.1\staticwebassets\YourCompany.MicroserviceTemplate.StaticWebAssets.xml
+C:\source\repos\YourCompany.MicroserviceTemplate\YourCompany.MicroserviceTemplate\obj\Debug\netcoreapp3.1\YourCompany.MicroserviceTemplate.AssemblyInfoInputs.cache
+C:\source\repos\YourCompany.MicroserviceTemplate\YourCompany.MicroserviceTemplate\obj\Debug\netcoreapp3.1\YourCompany.MicroserviceTemplate.AssemblyInfo.cs
+C:\source\repos\YourCompany.MicroserviceTemplate\YourCompany.MicroserviceTemplate\obj\Debug\netcoreapp3.1\YourCompany.MicroserviceTemplate.RazorTargetAssemblyInfo.cache

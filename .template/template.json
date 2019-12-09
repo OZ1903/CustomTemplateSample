@@ -1,0 +1,13 @@
+{
+  "$schema": "http://json.schemastore.org/template",
+  "author": "Your Name",
+  "classifications": [ "Custom Templates" ], //e.g. Api
+  "name": "YourCompany Microservice Template",
+  "identity": "YourCompany.MicroserviceTemplate", //This is the template identity
+  "shortName": "yc-microservice", //This is used with dotnet 
+  "tags": {
+    "language": "C#",
+    "type": "project"
+  },
+  "sourceName": "YourCompany.MicroserviceTemplate" //This is used to replace namespace and project names
+}
