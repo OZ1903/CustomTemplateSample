@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>YourCompany.MicroserviceTemplate</id>
+    <version>3.1</version>
+    <authors>Your Company</authors>
+    <owners>Your Team</owners>
+    <description>Description of package</description>
+    <packageTypes>
+      <packageType name="Template" />
+    </packageTypes>
+  </metadata>
+  <files>
+    <file src="**" exclude="**\.vs\**;**\bin\**;**\obj\**;**\.git\**;;**\*.nupkg" target="content" />
+  </files>
+</package>
